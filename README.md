@@ -57,9 +57,9 @@ Created database and tables
 ---
 
 ## 📂 Files Included
-- `sales_report.sql` → Contains all SQL commands (CREATE, INSERT, SELECT queries)  
+- `Task2_MySQL.sql` → Contains all SQL commands (CREATE, INSERT, SELECT queries)  
 - `README.md` → Project documentation (this file)  
-- Screenshots of SQL outputs (optional, for clarity)  
+
 
 
 
